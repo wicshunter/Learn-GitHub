@@ -5,8 +5,6 @@ Learn how to set up an ssh key and connect it to your GitHub account along with 
 
 ### Table of Contents:
 - [Task List](#task-list)
-- [TBA](#)
-- [TBA](#)
 
 ### Task List
 - [x] Make GitHub Account
